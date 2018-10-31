@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="System_processing_system7_0_2_synth_1" LaunchDir="/home/adam/COMSE6424/avnet01/avnet01.runs/System_processing_system7_0_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+</Runs>
+
